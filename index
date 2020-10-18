@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Document</title>
+</head>
+<body>
+   <div class="wrapper">
+        <header class="header container-layout">
+            <div class="logo">
+                <h1 class="logo-header">The Modernist</h1>
+                <p class="logo-text">Free PSD Wesdite Template</p>
+            </div>
+            <ul class="nav-list">
+                <li class="nav-list-item">home</li>
+                <li class="nav-list-item">style demo</li>
+                <li class="nav-list-item">full width</li>
+                <li class="nav-list-item">dropdown</li>
+                <li class="nav-list-item">portfolio</li>
+                <li class="nav-list-item">galery</li>
+            </ul>
+        </header>
+        <section class="slider container-layout">
+            <div class="slide">
+                <div class="slide-content">
+                    <h1 class="big-title">Cursus penati <br>
+                         saccum nulla.</h1>
+                    <p class="logo-text slider-text">Nullamlacus dui ipsum conseque loborttis non euisque <br> morbi penas dapibulum orna. Urnaultrices quis <br> curabitur phasellentesque congue magnis vestibulum <br> quismodo nulla et feugiat adipiscinia pellentum leo.</p>
+                    <div class="button-slider">Read More Here &raquo;</div>
+                </div>
+                <div class="foto-slider">
+                    <img src="./img/foto-slider.png" alt="foto-slider">
+                </div>
+            </div>
+        </section>
+        <main class="main">
+            <div class="service-title">
+                <div class="service-item">
+                    <div class="foto-main">120 x 120px</div>
+                    <h1 class="title-main">SERVICE TITLE</h1>
+                    <p class="text-main logo-text">Vestassapede et donec ut est libe ros sus et eget sed eget quisq ueta habitur augue</p>
+                </div>
+                <div class="service-item">
+                    <div class="foto-main">120 x 120px</div>
+                    <h1 class="title-main">SERVICE TITLE</h1>
+                    <p class="text-main logo-text">Vestassapede et donec ut est libe ros sus et eget sed eget quisq ueta habitur augue</p>
+                </div>
+                <div class="service-item">
+                    <div class="foto-main">120 x 120px</div>
+                    <h1 class="title-main">SERVICE TITLE</h1>
+                    <p class="text-main logo-text">Vestassapede et donec ut est libe ros sus et eget sed eget quisq ueta habitur augue</p>
+                </div>
+                <div class="service-item">
+                    <div class="foto-main">120 x 120px</div>
+                    <h1 class="title-main">SERVICE TITLE</h1>
+                    <p class="text-main logo-text">Vestassapede et donec ut est libe ros sus et eget sed eget quisq ueta habitur augue</p>
+                </div>
+            </div>
+            <div class="latest-work">
+                <img src="./img/latest-work.png" alt="icon latest work">
+            </div>
+            <div class="lorem-foto">
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+                <div class="lorem-foto-item">
+                    <div class="foto-size">290 x 190px</div>
+                    <div class="black-lorem">lorem ipsum dolor</div>
+                </div>
+            </div>
+        </main>
+        <footer class="footer">
+            <div class="footer-item-top">
+                <div class="footer-top-item">
+                    <h2 class="medium-title">From The Blog</h2>
+                        <h3 class="small-title">Post Title</h3>
+                        <p class="text-admin"> <span class="admin-text"> Admin</span>, domainname.co</p>
+                        <p class="date-footer">Friday, 6th April 20</p>
+                        <p class="text-footer-top">Vestibulumaccumsan egestibulum eu justo convallis augue estas aenean elit intesque sed. Facilispede estibulum nulla orna nisl velit elit ac aliquat non tincidunt. Namjusto cras urna urnaretra lor urna neque sed quis orci nulla.</p>
+                    <div class="button-read-more">Read More &raquo;</div>
+                </div>
+                <div class="footer-top-item">
+                    <h2 class="medium-title">Quick Links</h2>
+                    <ul class="quick-links">
+                        <li class="quick-links-item">Lorem ipsum dolor sit</li>
+                        <li class="quick-links-item">Amet consectetur</li>
+                        <li class="quick-links-item">Praesent vel sem id</li>
+                        <li class="quick-links-item">Curabitur hendrerit est</li>
+                        <li class="quick-links-item">Aliquam eget erat nec sapien</li>
+                        <li class="quick-links-item">Cras id augue nunc</li>
+                        <li class="quick-links-item">Sed a nulla urna</li>
+                    </ul>
+                </div>
+                <div class="footer-top-item">
+                    <h2 class="medium-title">Latest Tweets</h2>
+                    <div class="footer-div">
+                        <p> <span class="media-item">@namehere</span> Justoid nonummy laoreet phasellent penatoque in antesque pellus elis eget tincidunt. Nequatdui laorem justo a non tellus laoremut vitae doloreet 1 day ago </p>
+                    </div>
+                    <div class="footer-div"> 
+                        <p><span class="media-item">@namehere</span> Justoid nonummy laoreet phasellent penatoque in antesque pellus elis eget tincidunt. Nequatdui laorem justo a non tellus laoremut vitae doloreet 1 day ago </p>
+                    </div>
+                </div>
+                <div class="footer-top-item">
+                    <h2 class="medium-title">Contact Us</h2>
+                    <div class="contact-us">Full Name</div>
+                    <div class="contact-us">Email Address</div>
+                    <div class="contact-us">Subject</div>
+                    <div class="contact-us contact-us-message">Message</div>
+                    <div class="contact-us contact-us-button">submit</div>
+                </div>
+            </div>
+            <div class="footer-item-botom">
+                <div class="copyright">Copyright &copy; 2013 Domain Name - All Rights Reserved</div>
+                <div class="copyright template-footer">Template by OS Templates</div>
+            </div>
+        </footer>
+   </div>
+</body>
+</html>
